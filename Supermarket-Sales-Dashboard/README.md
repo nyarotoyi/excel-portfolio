@@ -95,7 +95,7 @@ This will introduce a new row at the end of the dataset that allows us to perfor
 We Create additional columns (features) from existing ones that could aid in the analysis.
 The features are Day Type (weekend or weekday), Time of Day (morning, afternoon, evening). Find the Formulas used in the `Useful formulas ` worksheet 
 
-## Analysis
+# 3 Analysis
 Insert Pivot tables by selecting Insert > Pivot table and selecting where you want it placed
 
 Select the field(colunm name) you want to calculate and dug it to the areas below the field names, i.e values for summary calculations, columns or rows.
