@@ -44,9 +44,12 @@ The other option is to check the total number of empty cells using:
 
 `=SUMPRODUCT(--(ISBLANK(Table1)))`  -- Ensure you confirm ther range
 
-- *Format the data* 
+- *Format the data*
+  
       - Ensure all columns are properly formatted (e.g., dates as Date format, numbers as Number format).
+  
       - Remove any unnecessary spaces or errors in the data.
+  
 For our case the original date format was not in the proper date format- We split the date columns using the Text to column data tool in the Data Ribbon, then connected the dates back in the right format using `DATE()` Function.
 
 #2  Exploratory Data Analysis (EDA)
