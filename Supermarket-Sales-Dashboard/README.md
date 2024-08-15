@@ -52,7 +52,7 @@ The other option is to check the total number of empty cells using:
   
 For our case the original date format was not in the proper date format- We split the date columns using the Text to column data tool in the Data Ribbon, then connected the dates back in the right format using `DATE()` Function.
 
-#2  Exploratory Data Analysis (EDA)
+# 2  Exploratory Data Analysis (EDA)
 
 ### 1. **Data Overview**
 *Dataset Description* Provide a brief description of the dataset, including the number of records and columns.
