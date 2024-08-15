@@ -10,7 +10,7 @@ It was created as part of an assignment for learners at the Nextech Data Analysi
 ![DASHBOARD](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/dashboard.JPG)
 
 ## Data Source
-The data used in this project [here](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/assignment.xlsx).
+The data used in this project is [here](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/assignment.xlsx).
 
 ## Project Overview
 The goal of this project is to analyze the supermarket sales dataset to derive actionable insights related to consumer behavior, sales performance per supermarket chain, category, and location, peak selling hours and days, product placement, and targeted promotions.
@@ -42,7 +42,7 @@ The goal of this project is to analyze the supermarket sales dataset to derive a
 
 The other option is to check the total number of empty cells using:
 
-`=SUMPRODUCT(--(ISBLANK(Table1))) -- Ensure you confirm ther range
+`=SUMPRODUCT(--(ISBLANK(Table1)))`  -- Ensure you confirm ther range
 
 -*Format the data* 
 - Ensure all columns are properly formatted (e.g., dates as Date format, numbers as Number format).
