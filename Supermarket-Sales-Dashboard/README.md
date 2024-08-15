@@ -230,5 +230,8 @@ The analysis of the supermarket sales data in Kenya provides valuable insights i
 ## Requirements
 - Microsoft Excel 2016 or later.
 
-##Contact Me
-zianaodero@gmail.com
+## Contact Me
+
+Email- zianaodero@gmail.com
+
+[LINKEDIN](https://www.linkedin.com/in/marice-ziana-a51442146/)
