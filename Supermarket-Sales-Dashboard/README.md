@@ -20,6 +20,32 @@ The goal of this project is to analyze the supermarket sales dataset to derive a
 - **Sales by Day of Week**: Analyzes sales performance on different days of the week.
 - **Location Analysis**: Provides insights into sales based on different locations.
 
+# The Analysis
+## Data Preparation
+- **Data Import**
+Openned the file in Excel.
+- **Data Cleaning** 
+
+## Analysis
+- **PivotTables:**
+  - Total Sales by Supermarket
+  - Sales by Payment Type
+  - Monthly Sales Trends
+  - Sales by Location
+- **Charts:**
+  - Include types of charts created and their purpose.
+- **Key Insights:**
+  - Highlight significant findings from the analysis.
+
+## Dashboard
+- **Setup:** Describe the dashboard setup and layout.
+- **Interactive Elements:**
+  - Slicers, dropdowns, and other controls used.
+- **Design Considerations:**
+  - Visual design choices and their impact on usability.
+
+## Conclusion
+Summarize the findings and provide recommendations based on the analysis.
 ## How to Use
 1. Download the Excel file from this repository.
 2. Open the file in Excel.
