@@ -52,7 +52,7 @@ The other option is to check the total number of empty cells using:
   
 For our case the original date format was not in the proper date format- We split the date columns using the Text to column data tool in the Data Ribbon, then connected the dates back in the right format using `DATE()` Function.
 
-# 2  Exploratory Data Analysis (EDA)
+# 2. Exploratory Data Analysis (EDA)
 
 ### 1. **Data Overview**
 *Dataset Description* Provide a brief description of the dataset, including the number of records and columns.
@@ -116,7 +116,7 @@ Select the field(colunm name) you want to calculate and dug it to the areas belo
   - Sales  by Day of week- doughnut chart
   - Sales by Time of day -   3-D clustured column chart
 
-## Dashboard
+# 4. Dashboard
 
 The dashboard serves as the central hub for analyzing supermarket sales data. It integrates key metrics and visualizations from various worksheets into a cohesive view.
 
