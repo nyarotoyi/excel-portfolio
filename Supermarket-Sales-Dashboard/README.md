@@ -4,9 +4,10 @@ This project features an interactive Excel dashboard developed to analyze superm
 
 It was created as part of an assignment for learners at the Nextech Data Analysis Bootcamp (June-August 2024).
 
-
-
 [Find the Assignment guidlines here](https://github.com/NexTech-Ac/data-analysis-bootcamp-2024/tree/main/assignments/assignment1)
+
+
+![DASHBOARD](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/dashboard.JPG)
 
 ## Project Overview
 The goal of this project is to analyze the supermarket sales dataset to derive actionable insights related to consumer behavior, sales performance per supermarket chain, category, and location, peak selling hours and days, product placement, and targeted promotions.
