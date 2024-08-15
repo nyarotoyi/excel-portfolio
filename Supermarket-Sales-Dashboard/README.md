@@ -34,7 +34,7 @@ The goal of this project is to analyze the supermarket sales dataset to derive a
 - Convert the data range to a Table using `ctrl + T` , ensure you check on `My table has headers`
   
 **Data Cleaning**
--*Remove duplicates:* For our data, there is no unique identifier so you will ignore this part, however to remove duplicates in case of Unique ID select the Data Ribbon > Under Data Tools select Remove Duplicates > Select Unique ID colum and click ok.
+- *Remove duplicates:* For our data, there is no unique identifier so you will ignore this part, however to remove duplicates in case of Unique ID select the Data Ribbon > Under Data Tools select Remove Duplicates > Select Unique ID colum and click ok.
 
 - *Check for empty cells:*  You check if there are empty cells by using
 
@@ -44,9 +44,9 @@ The other option is to check the total number of empty cells using:
 
 `=SUMPRODUCT(--(ISBLANK(Table1)))`  -- Ensure you confirm ther range
 
--*Format the data* 
-- Ensure all columns are properly formatted (e.g., dates as Date format, numbers as Number format).
-- Remove any unnecessary spaces or errors in the data.
+- *Format the data* 
+      - Ensure all columns are properly formatted (e.g., dates as Date format, numbers as Number format).
+      - Remove any unnecessary spaces or errors in the data.
 For our case the original date format was not in the proper date format- We split the date columns using the Text to column data tool in the Data Ribbon, then connected the dates back in the right format using `DATE()` Function.
 
 #2  Exploratory Data Analysis (EDA)
